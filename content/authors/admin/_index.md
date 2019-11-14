@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Miguel Borrero
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,32 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PhD Student in Economics
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: The University of Valencia
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include general applications of game theory and environmental economics.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Game Theory
+- Environmental Economics
+- Dynamic models in Economics
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Economics
+    institution: The University of Valencia
+    year: Currently
+  - course: MSc in Economics
+    institution: The University of Valencia
+    year: 2019
+  - course: Mphys Physics with Theoretical Physics
+    institution: The University of Manchester/UC Santa Barbara
+    year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -69,7 +69,4 @@ user_groups:
 - Researchers
 - Visitors
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+I am currently a PhD student in Economics at the University of Valencia under the supervision of Prof. Santiago J. Rubio in the department of Economic Analysis. My thesis is based on the application of Game Theory to environmental economics, in particular to the study of stability in IEAs. Feel free to contact me.
