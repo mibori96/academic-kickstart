@@ -33,7 +33,7 @@ education:
   - course: MSc in Economics
     institution: The University of Valencia
     year: 2019
-  - course: Mphys Physics with Theoretical Physics
+  - course: BSc and Masters in Physics with Theoretical Physics
     institution: The University of Manchester/UC Santa Barbara
     year: 2018
 
